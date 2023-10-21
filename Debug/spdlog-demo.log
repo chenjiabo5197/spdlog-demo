@@ -1,0 +1,5 @@
+﻿  logger.cpp
+D:\cplusplus-project\spdlog-demo\logger.cpp(6,82): warning C4244: 'argument': conversion from 'const int64_t' to 'size_t', possible loss of data
+  main.cpp
+  Generating Code...
+  spdlog-demo.vcxproj -> D:\cplusplus-project\spdlog-demo\Debug\spdlog-demo.exe

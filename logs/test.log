@@ -1,0 +1,11 @@
+[2023-10-21 23:28:06.621] [trace] [thread 8056] [main.cpp main:43] current log level is trace
+[2023-10-21 23:28:06.622] [trace] [thread 8056] [main.cpp main:44] this is trace log
+[2023-10-21 23:28:06.622] [debug] [thread 8056] [main.cpp main:45] this is debug log
+[2023-10-21 23:28:06.622] [info] [thread 8056] [main.cpp main:46] this is info log
+[2023-10-21 23:28:06.622] [warning] [thread 8056] [main.cpp main:47] this is warning log
+[2023-10-21 23:28:06.622] [error] [thread 8056] [main.cpp main:48] this is a error log
+[2023-10-21 23:28:06.622] [critical] [thread 8056] [main.cpp main:49] this is critical log
+[2023-10-21 23:28:06.622] [warning] [thread 8056] [main.cpp main:53] after set log level to warning
+[2023-10-21 23:28:06.622] [warning] [thread 8056] [main.cpp main:57] this is warning log
+[2023-10-21 23:28:06.624] [error] [thread 8056] [main.cpp main:58] this is a error log
+[2023-10-21 23:28:06.624] [critical] [thread 8056] [main.cpp main:59] this is critical log
